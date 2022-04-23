@@ -565,6 +565,10 @@ label{
 .ret:hover{
     background-color: rgba(255, 255, 255, 0.267);
 }
+.dad2pro{
+    display: flex;
+    justify-content: space-around;
+}
 @media (min-width: 0px) and (max-width: 768px) {
     .navigation1{
         display: none;
