@@ -575,6 +575,9 @@ button{
 #ol{
     margin-bottom: 30px;
 }
+.put{
+    text-decoration: none;
+}
 @media (min-width: 0px) and (max-width: 768px) {
     .navigation1{
         display: none;
